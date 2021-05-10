@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Building_Escape-6167.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_Escape.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_EscapeGameModeBase.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Grabber.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\OpenDoor.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\WorldPosition.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_Escape.init.gen.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_EscapeGameModeBase.gen.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Grabber.gen.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\OpenDoor.gen.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\WorldPosition.gen.cpp.obj"
+"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Default.rc2.res"
+/OUT:"C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-6167.lib"
+/INCLUDE:IMPLEMENT_MODULE_Building_Escape

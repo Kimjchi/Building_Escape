@@ -1,0 +1,7 @@
+C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Source\Building_Escape/OpenDoor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TriggerVolume.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerVolume.generated.h
+C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape\OpenDoor.generated.h
