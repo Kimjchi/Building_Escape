@@ -1,0 +1,3 @@
+C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4\Shipping\Building_Escape\Definitions.Building_Escape.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

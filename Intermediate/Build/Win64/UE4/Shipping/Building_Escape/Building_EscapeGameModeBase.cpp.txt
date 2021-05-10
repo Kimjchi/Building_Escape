@@ -1,0 +1,7 @@
+C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4\Shipping\Building_Escape\Definitions.Building_Escape.h
+C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Source\Building_Escape\Building_EscapeGameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameModeBase.generated.h
+C:\Users\jerem\Documents\Udemy\Unreal Engine\Building Escape\Building_Escape\Intermediate\Build\Win64\UE4\Inc\Building_Escape\Building_EscapeGameModeBase.generated.h
