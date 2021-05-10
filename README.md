@@ -10,7 +10,7 @@ Small project to test Unreal Engine.
 ## Installation
 
 Download this project to your game directory.
-Play the game directly on Windows with the app located in Packages->Win->WindowsNoEditor->Building_Escape
+Or play the game directly (on Windows) by downloading the package [here](https://drive.google.com/file/d/1zUEcUT3nj8b_ZUExBywls3-ZC737iaMq/view?usp=sharing) 
 
 ## Instructions
 
@@ -19,3 +19,4 @@ In this small level, you are stuck in a room. To open the door you need to stand
 However, you are not fast enough to go out before the door closes. You should then place the cone and cube where the light is to hold the door open.
 Hold right-click on your mouse within reach of the object to grab it.
 
+![](BuildingEscape.gif)
